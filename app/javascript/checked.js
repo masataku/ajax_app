@@ -26,4 +26,4 @@ function check () {
     });
   });
 }
-window.setInterval(check, 1000);
+setInterval(check, 1000);
